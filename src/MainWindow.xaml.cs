@@ -197,7 +197,7 @@ namespace CanaryLauncherUpdate
 			{
 				foreach (ZipEntry zipEntry in modZip)
 				{
-					zipEntry.Extract(GetLauncherPath(), existingFileAction);
+					zipEntry.Extract(GetLauncherPath() , existingFileAction);
 				}
 			}
 		}
