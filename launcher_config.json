@@ -1,5 +1,5 @@
 {
-	"clientVersion": "0.0.0.1",
+	"clientVersion": "v0.0.0.0-BETA",
 	"launcherVersion": "1.0",
 	"replaceFolders": true,
 	"replaceFolderName": [
@@ -14,6 +14,6 @@
 		}
 	],
 	"clientFolder": "Noctera Global",
-	"newClientUrl": "https://github.com/voidexiled/noctera-launcher/releases/download/v0.0.0.1/client-to-update.zip",
+	"newClientUrl": "https://github.com/voidexiled/noctera-launcher/releases/download/v0.0.0.0-BETA/client-to-update.zip",
 	"clientExecutable": "client.exe"
 }
